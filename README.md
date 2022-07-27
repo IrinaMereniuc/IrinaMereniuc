@@ -20,6 +20,6 @@
 
 ## My GitHub Stats 📊
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IrinaMereniuc&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Irina's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaMereniuc&layout=compact&theme=vue&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IrinaMereniuc&theme=vue&show_icons=true" alt="Irina's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaMereniuc&layout=compact&theme=vue&hide_border=true" /></a> |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
